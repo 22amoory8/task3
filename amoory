@@ -1,0 +1,20 @@
+def add3numbers (x,y,z):
+    print(x+y+z)
+    
+    
+gravity=9.8
+pi=3.14
+c=299 792 458
+spped of sound=343 
+    
+def phonenumber():
+    print("01004077978")
+    
+    
+    
+def askQuestion:
+    answer=input ("what is the biggest mountain on earth"):
+        if answer== ("Everest"):
+            print ("correct"):
+                else:
+                    print ("false")
